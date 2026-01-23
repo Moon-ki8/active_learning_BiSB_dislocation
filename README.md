@@ -54,7 +54,4 @@ The workflow is configured for large-scale parallel execution:
   - QUIP/GAP fitting: MPI + OpenMP
   - Quantum ESPRESSO: MPI
 
----
-
-## Directory Structure
 
