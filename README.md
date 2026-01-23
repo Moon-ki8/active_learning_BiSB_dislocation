@@ -23,7 +23,7 @@ At each iteration, the workflow:
 
 ## Main Script
 
-- **`main_train.sh`**
+- **`main.sh`**
   - SLURM job script that controls the full active learning loop
   - Handles evaluation, minimization, DFT execution, and GAP retraining
   - Designed for multi-node CPU execution
