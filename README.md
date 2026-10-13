@@ -30,6 +30,7 @@ The GAP potential files used for the compression calculations are archived on Ze
 Download the XML file together with all associated `sparseX` files.
 
 ---
+
 ## Main Script
 
 - **`main.sh`**
