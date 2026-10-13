@@ -1,0 +1,2 @@
+GAP potential files used for the compression calculations:
+https://zenodo.org/records/23346774
