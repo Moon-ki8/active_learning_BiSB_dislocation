@@ -21,6 +21,15 @@ At each iteration, the workflow:
 
 ---
 
+## GAP Potential
+
+The GAP potential files used for the compression calculations are archived on Zenodo:
+
+- [GAP potential files (Zenodo record 23346774)](https://zenodo.org/records/23346774)
+
+Download the XML file together with all associated `sparseX` files.
+
+---
 ## Main Script
 
 - **`main.sh`**
